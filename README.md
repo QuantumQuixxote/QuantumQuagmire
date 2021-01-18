@@ -1,2 +1,2 @@
 # QuantumQuixote
-Quantum Logic Lattice
+Quantum Logic Lattice for Entanglement Distillation Techniques
